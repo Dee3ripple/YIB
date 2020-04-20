@@ -1,0 +1,95 @@
+body{
+    background-color: whitesmoke;
+}
+
+div{
+    padding: 3px;
+    
+}
+
+.navbar{
+    padding: 10px;
+    font-weight: bold;
+    
+    
+}
+
+.container-fluid{
+    width: 100%;
+    margin: 5px;
+}
+
+.row{
+    background-color: rgb(250, 248, 248);
+    
+} 
+
+.col1{
+    margin: 2px;
+    min-height: 300px;
+    text-align: center;
+    background-color: rgb(253, 213, 201)
+    
+}
+
+.col2{
+   margin: 2px;
+    min-height: 300px;
+    text-align: center;
+    background-color: rgb(247, 237, 236) 
+}
+
+.col3{
+    margin: 2px;
+    min-height: 300px;
+    text-align: center;
+    background-color: rgb(230, 132, 132)
+}
+
+.col4{
+    margin: 0px;
+    min-height: 300px;
+    text-align: center;
+    background-color: rgb(240, 114, 114)
+}
+
+.col5{
+    margin: 0px;
+    min-height: 300px;
+    text-align: center;
+    background-color: rgb(75, 72, 72)
+    
+}
+
+.col6{
+   margin: 2px;
+    min-height: 300px;
+    text-align: center;
+    background-color: rgb(199, 187, 187) 
+}
+
+.col7{
+   margin: 2px;
+    min-height: 300px;
+    text-align: center;
+    background-color: rgb(53, 47, 46) 
+}
+
+.colinside{
+   
+    min-height: 100px;
+    text-align: center;
+    background-color: rgb(51, 46, 46);
+}
+
+#test{
+    margin: 10px;
+    padding: 10px;
+}
+
+
+
+
+
+
+
